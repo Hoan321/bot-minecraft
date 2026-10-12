@@ -5,7 +5,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 // ==========================================
 // CẤU HÌNH DISCORD BOT
 // ==========================================
-const DISCORD_TOKEN = 'MTUzNDc3NTMzNTA0MjgxNDA5NA.GHFtSn.uNJlBg_0FsCWh3uoxOZYfWrCnu_1X788OTKJoE'; // Thay token chính xác của bạn vào đây nếu cần
+const DISCORD_TOKEN = 'MTUzNDc3NTMzNTA0MjgxNDA5NA.GO1_5H.5vyo8eEcENG27mNFdkK87VzL-_NtrXezBxCpOY'; // Thay token chính xác của bạn vào đây nếu cần
 const DISCORD_CHANNEL_ID = '1539530661101183019';
 
 const discordClient = new Client({
