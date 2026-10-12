@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "mineflayer": "^4.20.0",
-    "mineflayer-pathfinder": "^2.4.3"
+    "mineflayer-pathfinder": "^2.4.3",
+    "discord.js": "^14.14.1"
   }
 }
